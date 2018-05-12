@@ -1,10 +1,16 @@
 _repo: Treatment-of-the-diseases-of-the-eye-by-means-of-prussic-acid-vapour-and-other-medicinal-agen__50254
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50254-h/images/cover.jpg
 creator:
   author:
     agent_name: Turnbull, Alexander
     gutenberg_agent_id: '45778'
     url: http://www.gutenberg.org/2009/agents/45778
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50254#Treatment-of-the-diseases-of-the-eye-by-means-of-prussic-acid-vapour-and-other-medicinal-agen_
 gutenberg_issued: '2015-10-19'
 gutenberg_type: Text
 identifiers:
