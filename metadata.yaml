@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Treatment of the diseases of the eye, by means of prussic acid vapour, and
   other medicinal agents
 url: http://www.gutenberg.org/ebooks/50254
